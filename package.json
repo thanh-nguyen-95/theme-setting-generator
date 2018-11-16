@@ -1,0 +1,17 @@
+{
+  "name": "theme-setting-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html --out-dir ./build"
+  },
+  "keywords": [],
+  "author": "Thanh Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
